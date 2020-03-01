@@ -7,3 +7,4 @@ func _process(delta):
 		offset = Vector2(dir.x*20, dir.y*20)
 	else:
 		offset = Vector2(0,0)
+	

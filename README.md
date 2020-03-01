@@ -1,4 +1,5 @@
 # 06-Juicy-Breakout
+Features:
 Changing the color of the paddle, ball, and blocks
 Animate how the blocks and the paddle appear on the screen
 Squeeze and stretch the paddle
@@ -21,21 +22,4 @@ Makes the ball rotate
 Add particles when the paddle is hit
 
 
-Please list the features you add in the README.md. You will be awarded one point per feature you add (including a soundtrack and sound effects). Some of the features demonstrated in the presentation include:
 
- - Animate the size of the ball when it hits something 
- - 
- - Make the eyes blink
- 
-
- When you are done, *update the LICENSE and README.md*, commit and push your code to GitHub, and turn in the URL for your repository on Canvas.
-
----
-
-The grading criteria will be as follows:
-
- - [1 point] Assignment turned in on time
- - [1] Repository contains a descriptive README.md
- - [1] No (script) syntax errors
- - [1] No other runtime errors
- - [16] Features to make the game more "juicy"
